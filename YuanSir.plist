@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.baidu.com</string>
+					<string>https://raw.githubusercontent.com/vernonwang/irmb/master/YuanSir.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
